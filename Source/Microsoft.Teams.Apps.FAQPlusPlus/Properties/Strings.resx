@@ -204,7 +204,7 @@
   <data name="WelcomeTeamCardContent" xml:space="preserve">
     <value>Ahoj, 
     
-    jsem tvůj přátelský Q&A bot. Můžete mi položit otázky a já se snažím odpovědět. Pokud nemůžu pomoci, spojím vás s odborníkem.</value>
+    jsem tvůj přátelský Q&amp;A bot. Můžete mi položit otázky a já se snažím odpovědět. Pokud nemůžu pomoci, spojím vás s odborníkem.</value>
     <comment>Welcome message when bot is added to a new team.</comment>
   </data>
   <data name="CustomMessage" xml:space="preserve">
